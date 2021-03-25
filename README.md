@@ -39,7 +39,6 @@
 <!-- <h3 align="center"><b>👨💻 Team Project 👨💻</b></h3>-->
 <!-- <p align="center"> -->
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ssamea&repo=health-care&theme=dracula)](https://github.com/ssamea/health-care)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ssamea&repo=Ai-Chat-bot-Real-time-prediction-app-based-on-Yolo-deep-learning&theme=dracula)](https://github.com/ssamea/Ai-Chat-bot-Real-time-prediction-app-based-on-Yolo-deep-learning)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ssamea&repo=KPU_graduationWork&theme=dracula)](https://github.com/ssamea/KPU_graduationWork)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ssamea&repo=MovieInfoApp_Kotlin&theme=dracula)](https://github.com/ssamea/MovieInfoApp_Kotlin)
 <!-- </p>-->
