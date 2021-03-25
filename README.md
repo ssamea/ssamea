@@ -1,8 +1,10 @@
 ### 👋 진성민 Jin Sung Min 👋
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=ssamea&show_icons=true&theme=dracula)
+</br>
 
 ## :page_facing_up: Resume :page_facing_up:
 [RESUME](https://www.notion.so/Resume-d1aa011296d445bd8d03164c677a6f1a) (Click!)
+</br>
 </br>
 
 ## 🛠 Tech Stack 🛠
@@ -21,6 +23,7 @@
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/></a> &nbsp
 <!-- </p> -->
 
+</br>
 </br>
 
 ## :clipboard: CerfigiCation  :clipboard:
