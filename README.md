@@ -19,7 +19,8 @@
 
 </br>
 
-<h3 align="center"> :clipboard: CerfigiCation  :clipboard: </b></h3>
+## :clipboard: CerfigiCation  :clipboard:
+<!--<h3 align="center"> :clipboard: CerfigiCation  :clipboard: </b></h3> -->
 </br>
 <p align="center">
 1. 정보처리기사 자격증 </br>
@@ -28,22 +29,25 @@
 
 </br>
 
-<h3 align="center"><b>👨💻 Team Project 👨💻</b></h3>
-<p align="center">
+## 👨💻 Team Project 👨💻
+<!-- <h3 align="center"><b>👨💻 Team Project 👨💻</b></h3>-->
 
+<!-- <p align="center"> -->
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ssamea&repo=health-care&theme=dracula)](https://github.com/ssamea/health-care)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ssamea&repo=KPU_Mobile&theme=dracula)](https://github.com/ssamea/KPU_Mobile)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ssamea&repo=KPU_graduationWork&theme=dracula)](https://github.com/ssamea/KPU_graduationWork)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ssamea&repo=MovieInfoApp_Kotlin&theme=dracula)](https://github.com/ssamea/MovieInfoApp_Kotlin)
-</p>
+<!-- </p>-->
 </br>
 
-<h3 align="center"> :envelope: Contact :envelope: </b></h3>
-</br>
+## :envelope: Contact :envelope:
+<!--<h3 align="center"> :envelope: Contact :envelope: </b></h3> -->
+
+<!-- </br>-->
 <p align="center">
 <A href="mailto:wlstjdals3@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a> &nbsp 
 <a href="https://ssameaho94.tistory.com/"/><img src="https://img.shields.io/badge/Tistory-EA4335?style=flat-square&logo=FF4785&logoColor=white"/></a> &nbsp 
-</p>
+<!-- </p>-->
   
 <!--
 **ssamea/ssamea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
