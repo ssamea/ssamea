@@ -22,10 +22,10 @@
 ## :clipboard: CerfigiCation  :clipboard:
 <!--<h3 align="center"> :clipboard: CerfigiCation  :clipboard: </b></h3> -->
 </br>
-<p align="center">
+<!-- <p align="center"> -->
 1. 정보처리기사 자격증 </br>
 2. 리눅스 마스터 2급
-</p>
+<!-- </p> -->
 
 </br>
 
