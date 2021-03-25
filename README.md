@@ -1,4 +1,5 @@
 ### 👋 진성민 Jin Sung Min 👋
+![Github Stats](https://github-readme-stats.vercel.app/api?username=ssamea&show_icons=true&theme=dracula)
 
 <h3 align="center"><b>🛠 Tech Stack 🛠</b></h3>
 </br>
