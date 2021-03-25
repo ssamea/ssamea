@@ -1,4 +1,4 @@
-### Jin Sung Min 👋
+### 👋 Jin Sung Min 👋
 
 <h3 align="center"><b>🛠 Tech Stack 🛠</b></h3>
 </br>
@@ -16,7 +16,10 @@
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/></a> &nbsp
 </p>
 
-<h3>align="center"> :clipboard: CerfigiCation  :clipboard: </b></h3>
+<h3 align="center"> :clipboard: CerfigiCation  :clipboard: </b></h3>
+</br>
+1. 정보처리기사 자격증
+2. 리눅스 마스터 2급
   
 <!--
 **ssamea/ssamea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
