@@ -2,7 +2,7 @@
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=ssamea&show_icons=true&theme=dracula)
 
 ## :page_facing_up: Resume :page_facing_up:
-
+[RESUME](https://www.notion.so/Resume-d1aa011296d445bd8d03164c677a6f1a) (korean)
 </br>
 
 ## 🛠 Tech Stack 🛠
