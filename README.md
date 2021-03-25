@@ -24,6 +24,15 @@
 1. 정보처리기사 자격증 </br>
 2. 리눅스 마스터 2급
 </p>
+
+
+</br>
+
+<h3 align="center"> :envelope: Contact :envelope: </b></h3>
+</br>
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wlstjdals3@gmail.com"/></a> &nbsp 
+<a href="https://ssameaho94.tistory.com/"/><img src="https://img.shields.io/badge/Tistory-EA4335?style=flat-square&logo=FF4785&logoColor=white"/></a> &nbsp 
+</p>
   
 <!--
 **ssamea/ssamea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
