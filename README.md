@@ -1,4 +1,4 @@
-### 👋 Jin Sung Min 👋
+### 👋 진성민 Jin Sung Min 👋
 
 <h3 align="center"><b>🛠 Tech Stack 🛠</b></h3>
 </br>
