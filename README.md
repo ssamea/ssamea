@@ -43,23 +43,9 @@
 ## :envelope: Contact :envelope:
 <!--<h3 align="center"> :envelope: Contact :envelope: </b></h3> -->
 
-<!-- </br>-->
-<p align="center">
+</br>
+<!-- <p align="center"> -->
 <A href="mailto:wlstjdals3@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a> &nbsp 
 <a href="https://ssameaho94.tistory.com/"/><img src="https://img.shields.io/badge/Tistory-EA4335?style=flat-square&logo=FF4785&logoColor=white"/></a> &nbsp 
 <!-- </p>-->
-  
-<!--
-**ssamea/ssamea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ 
