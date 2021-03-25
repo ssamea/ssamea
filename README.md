@@ -27,7 +27,6 @@
 
 ## :clipboard: CerfigiCation  :clipboard:
 <!--<h3 align="center"> :clipboard: CerfigiCation  :clipboard: </b></h3> -->
-</br>
 <!-- <p align="center"> -->
  -정보처리기사 자격증 </br>
  -리눅스 마스터 2급 </br>
