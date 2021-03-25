@@ -30,6 +30,7 @@
 
 <h3 align="center"> :envelope: Contact :envelope: </b></h3>
 </br>
+<p align="center">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wlstjdals3@gmail.com"/></a> &nbsp 
 <a href="https://ssameaho94.tistory.com/"/><img src="https://img.shields.io/badge/Tistory-EA4335?style=flat-square&logo=FF4785&logoColor=white"/></a> &nbsp 
 </p>
