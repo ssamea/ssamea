@@ -5,7 +5,7 @@
 
 
 
-## :page_facing_up: Resume :page_facing_up:
+## :page_facing_up: 이력서 :page_facing_up:
 [RESUME](https://www.notion.so/Resume-d1aa011296d445bd8d03164c677a6f1a) (Click!)
 </br>
 </br>
