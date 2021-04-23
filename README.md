@@ -46,6 +46,7 @@
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ssamea&repo=Real-time-monitoring-system_Mobile&theme=dracula)](https://github.com/ssamea/Real-time-monitoring-system_Mobile)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ssamea&repo=Real-time-monitoring-system_RaspberryPI&theme=dracula)](https://github.com/ssamea/Real-time-monitoring-system_RaspberryPI)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ssamea&repo=MovieInfoApp_Kotlin&theme=dracula)](https://github.com/ssamea/MovieInfoApp_Kotlin)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ssamea&repo=AndroidCleaner&theme=dracula)](https://github.com/ssamea/AndroidCleaner)
 <!-- </p>-->
 </br>
 
