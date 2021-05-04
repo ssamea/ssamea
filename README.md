@@ -59,4 +59,8 @@
 <A href="mailto:wlstjdals3@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a> &nbsp 
 <a href="https://ssameaho94.tistory.com/"/><img src="https://img.shields.io/badge/Tistory-EA4335?style=flat-square&logo=FF4785&logoColor=white"/></a> &nbsp 
 <!-- </p>-->
+
+</br>
+Dont Give Up!
+<iframe width="560" height="315" src="https://youtu.be/F5qRDLPIpWU frameborder="0" allowfullscreen></iframe>
  
