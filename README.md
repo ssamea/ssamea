@@ -39,7 +39,7 @@
 
 </br>
 
-## 👨💻 Team Project 👨💻
+## 👨💻 Main Project 👨💻
 <!-- <h3 align="center"><b>👨💻 Team Project 👨💻</b></h3>-->
 <!-- <p align="center"> -->
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ssamea&repo=health-care&theme=dracula)](https://github.com/ssamea/health-care)
@@ -47,7 +47,7 @@
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ssamea&repo=Real-time-monitoring-system_RaspberryPI&theme=dracula)](https://github.com/ssamea/Real-time-monitoring-system_RaspberryPI)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ssamea&repo=MovieInfoApp_Kotlin&theme=dracula)](https://github.com/ssamea/MovieInfoApp_Kotlin)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ssamea&repo=AndroidCleaner&theme=dracula)](https://github.com/ssamea/AndroidCleaner)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ssamea&repo=WeatherInfo&theme=dracula)](https://github.com/ssamea/WeatherInfo)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ssamea&repo=MusicBot&theme=dracula)](https://github.com/ssamea/MusicBot)
 <!-- </p>-->
 </br>
 
