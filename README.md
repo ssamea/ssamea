@@ -48,6 +48,7 @@
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ssamea&repo=MovieInfoApp_Kotlin&theme=dracula)](https://github.com/ssamea/MovieInfoApp_Kotlin)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ssamea&repo=AndroidCleaner&theme=dracula)](https://github.com/ssamea/AndroidCleaner)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ssamea&repo=MusicBot&theme=dracula)](https://github.com/ssamea/MusicBot)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ssamea&repo=Pet_Info_Management&theme=dracula)](https://github.com/ssamea/Pet_Info_Management)
 <!-- </p>-->
 </br>
 
